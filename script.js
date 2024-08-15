@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const EVENTS_DELAY = 18000;
-    const MAX_KEYS_PER_GAME_PER_DAY = 10000;
-
     const games = {
         1: {
             name: 'Riding Extreme 3D',
